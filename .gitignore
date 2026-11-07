@@ -1,0 +1,31 @@
+# ---- 运行时状态（首次启动自动生成） ----
+pet.config.json
+pet.pid
+
+# ---- 虚拟环境与依赖（注意：tools/ 下的脚本要入库，只忽略 venv） ----
+tools/venv-tk/
+tools/venv/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# ---- 第三方素材原图（体积大、版权独立，不入库） ----
+ref/
+
+# ---- 早期废弃方案留档（手绘参数化那一版，仅本地保留） ----
+legacy/
+
+# ---- 测试产物 ----
+assets/frames/
+dump/
+*.log
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# ---- 本机计划任务导出备份（含本机绝对路径，不入库） ----
+tools/backup-follow-task-*.xml

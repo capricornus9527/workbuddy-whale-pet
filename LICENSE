@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2026 XT-nya
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+注意：上述 MIT 许可**仅覆盖本仓库的源代码**（`src/` 下的 Python 文件、
+`*.bat` / `*.ps1` 脚本、本仓库原创文档）。上游代码版权归 XT-nya；
+本版改动部分 Copyright (c) 2026 capricornus9527，同样按上述 MIT 条款提供，
+并保留原版权声明。
+
+`assets/pet/` 下的 18 张角色差分贴图**不是**本项目原创，采用
+**CC BY-NC-SA 4.0** 许可（署名 · 非商业性使用 · 相同方式共享），
+**仅限非商业使用**。
+
+`assets/anim/` 下的 57 帧动画来自 `tqlearning/ai-girl-chatgpt-pets`，
+上游声明美术资源的**开放授权尚未确认**。本仓库不把这部分素材置于任何开源许可之下，
+不主张权利，也不授予再分发或商用许可（详见 `NOTICE.md` 第 2.1、7 节）。
+
+形象授权链（完整说明见 `NOTICE.md`）：
+    原创角色「溟月」—— 上善无形（2025-06，AI 创作，CC BY-NC-SA 4.0 开放二创）
+    「女仆鲸鱼娘」女仆装版本 —— B站 ZipZipPipe（2026-04-25，基于「溟月」改造）
+    该套贴图的整理公开与许可声明 —— Vast-Beyond-Space/pet-app
+
+各层许可互不影响：**你可以自由地把代码拿去商用，但贴图与动画素材不行。**
+
+本项目是**非官方社区项目**，与 DeepSeek（杭州深度求索人工智能基础技术研究
+有限公司）没有任何关系，未获其授权、赞助或背书；「DeepSeek」名称与鲸鱼标识
+属于 DeepSeek 的权利，本项目不授予任何商标使用许可。
+
+如果你要商业使用，请**先**把 `assets/pet/` 换成你自己拥有版权的素材
+（替换步骤见 `NOTICE.md`），或另行取得相关权利人的书面授权。

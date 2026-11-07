@@ -1,0 +1,243 @@
+{
+  "sprites": {
+    "excited": {
+      "file": "excited.png",
+      "size": [
+        258,
+        460
+      ],
+      "head_w": 209,
+      "head_ratio": 0.8101,
+      "form": "full",
+      "full_body": true,
+      "source": "mood_兴奋.png"
+    },
+    "curious": {
+      "file": "curious.png",
+      "size": [
+        264,
+        460
+      ],
+      "head_w": 186,
+      "head_ratio": 0.7045,
+      "form": "full",
+      "full_body": true,
+      "source": "mood_好奇.png"
+    },
+    "shy": {
+      "file": "shy.png",
+      "size": [
+        237,
+        460
+      ],
+      "head_w": 189,
+      "head_ratio": 0.7975,
+      "form": "full",
+      "full_body": true,
+      "source": "mood_害羞.png"
+    },
+    "surprised": {
+      "file": "surprised.png",
+      "size": [
+        255,
+        460
+      ],
+      "head_w": 222,
+      "head_ratio": 0.8706,
+      "form": "full",
+      "full_body": true,
+      "source": "mood_惊讶.png"
+    },
+    "coquettish": {
+      "file": "coquettish.png",
+      "size": [
+        334,
+        460
+      ],
+      "head_w": 278,
+      "head_ratio": 0.8323,
+      "form": "portrait",
+      "full_body": false,
+      "source": "mood_撒娇.png"
+    },
+    "speechless": {
+      "file": "speechless.png",
+      "size": [
+        254,
+        460
+      ],
+      "head_w": 185,
+      "head_ratio": 0.7283,
+      "form": "full",
+      "full_body": true,
+      "source": "mood_无语.png"
+    },
+    "angry": {
+      "file": "angry.png",
+      "size": [
+        244,
+        460
+      ],
+      "head_w": 205,
+      "head_ratio": 0.8402,
+      "form": "full",
+      "full_body": true,
+      "source": "mood_生气.png"
+    },
+    "sad": {
+      "file": "sad.png",
+      "size": [
+        256,
+        460
+      ],
+      "head_w": 191,
+      "head_ratio": 0.7461,
+      "form": "full",
+      "full_body": true,
+      "source": "mood_难过.png"
+    },
+    "encouraging": {
+      "file": "encouraging.png",
+      "size": [
+        256,
+        460
+      ],
+      "head_w": 188,
+      "head_ratio": 0.7344,
+      "form": "full",
+      "full_body": true,
+      "source": "mood_鼓励.png"
+    },
+    "base": {
+      "file": "base.png",
+      "size": [
+        458,
+        460
+      ],
+      "head_w": 310,
+      "head_ratio": 0.6769,
+      "form": "portrait",
+      "full_body": false,
+      "source": "pet.png"
+    },
+    "dazed": {
+      "file": "dazed.png",
+      "size": [
+        455,
+        460
+      ],
+      "head_w": 307,
+      "head_ratio": 0.6747,
+      "form": "portrait",
+      "full_body": false,
+      "source": "浮窗_发呆.png"
+    },
+    "eating": {
+      "file": "eating.png",
+      "size": [
+        458,
+        460
+      ],
+      "head_w": 311,
+      "head_ratio": 0.679,
+      "form": "portrait",
+      "full_body": false,
+      "source": "浮窗_吃饭.png"
+    },
+    "cookie": {
+      "file": "cookie.png",
+      "size": [
+        456,
+        460
+      ],
+      "head_w": 308,
+      "head_ratio": 0.6754,
+      "form": "portrait",
+      "full_body": false,
+      "source": "浮窗_吃饼干.png"
+    },
+    "craving": {
+      "file": "craving.png",
+      "size": [
+        456,
+        460
+      ],
+      "head_w": 307,
+      "head_ratio": 0.6732,
+      "form": "portrait",
+      "full_body": false,
+      "source": "浮窗_嘴馋.png"
+    },
+    "working": {
+      "file": "working.png",
+      "size": [
+        460,
+        412
+      ],
+      "head_w": 305,
+      "head_ratio": 0.663,
+      "form": "portrait",
+      "full_body": false,
+      "source": "浮窗_工作.png"
+    },
+    "angry_scene": {
+      "file": "angry_scene.png",
+      "size": [
+        450,
+        460
+      ],
+      "head_w": 302,
+      "head_ratio": 0.6711,
+      "form": "portrait",
+      "full_body": false,
+      "source": "浮窗_生气.png"
+    },
+    "sleeping": {
+      "file": "sleeping.png",
+      "size": [
+        460,
+        257
+      ],
+      "head_w": 394,
+      "head_ratio": 0.8565,
+      "form": "portrait",
+      "full_body": false,
+      "source": "浮窗_睡觉.png"
+    },
+    "dragged": {
+      "file": "dragged.png",
+      "size": [
+        455,
+        460
+      ],
+      "head_w": 306,
+      "head_ratio": 0.6725,
+      "form": "portrait",
+      "full_body": true,
+      "source": "被拖动.png"
+    }
+  },
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans",
+  "commercial_use": false,
+  "source": "https://github.com/Vast-Beyond-Space/pet-app",
+  "source_path": "electron-lite/img/女仆装/",
+  "attribution": [
+    {
+      "role": "原创角色「溟月」(2025-06)",
+      "author": "上善无形",
+      "url": "https://space.bilibili.com/4456176"
+    },
+    {
+      "role": "「女仆鲸鱼娘」女仆装版本 (2026-04-25)",
+      "author": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "贴图整理公开与许可声明",
+      "author": "Vast-Beyond-Space",
+      "url": "https://github.com/Vast-Beyond-Space/pet-app"
+    }
+  ],
+  "notice": "这些贴图不是本项目原创，仅限非商业使用；衍生作品须以 CC BY-NC-SA 4.0 发布。"
+}
